@@ -79,9 +79,9 @@ export default function Recipe1() {
                         <br />
                         3. <span className="font-bold">Seasoning The Chicken:</span> Rub the herb mixture thoroughly over the outside and inside of the chicken.
                         <br />
-                        4. <span className="font-bold">Roasting In Earthenware:</span> If you're including root vegetables, place them at the bottom of the Miriams Earthen Cookware pot. Place the seasoned chicken on top. The pot's natural far-infrared cooking process ensures the chicken cooks evenly, retaining its natural juices and flavors.
+                        4. <span className="font-bold">Roasting In Earthenware:</span> If youre including root vegetables, place them at the bottom of the Miriams Earthen Cookware pot. Place the seasoned chicken on top. The pots natural far-infrared cooking process ensures the chicken cooks evenly, retaining its natural juices and flavors.
                         <br />
-                        5.<span className="font-bold">Cooking To Perfection:</span> Cover the pot and roast the chicken in the oven. The exact cooking time will depend on the size of the chicken but typically takes about 1 to 1½ hours. The clay pot's lid ensures the chicken remains moist and tender.
+                        5.<span className="font-bold">Cooking To Perfection:</span> Cover the pot and roast the chicken in the oven. The exact cooking time will depend on the size of the chicken but typically takes about 1 to 1½ hours. The clay pots lid ensures the chicken remains moist and tender.
                         <br />
                         6.<span className="font-bold">Serving:</span> Once the chicken is beautifully roasted and the skin is golden, remove it from the oven. Let it rest for a few minutes before carving.
                         <br />
