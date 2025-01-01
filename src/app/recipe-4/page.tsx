@@ -3,9 +3,15 @@
 import Image from "next/image";
 import { useState, useEffect } from "react";
 
+interface Comment {
+    name: string;
+    email: string;
+    comment: string;
+  }
+
 export default function Recipe1() {
     // State to store comments
-    const [comments, setComments] = useState<any[]>([]);
+    const [comments, setComments] = useState<Comment[]>([]);
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
     const [comment, setComment] = useState("");
