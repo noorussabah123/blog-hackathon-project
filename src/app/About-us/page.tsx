@@ -17,7 +17,7 @@ export default function About() {
               HAVEN!
             </h1>
             <p className="text-gray-600 text-base sm:text-lg">
-              Bonjour and welcome to the heart of my kitchen! I'm Isabella Russo, the culinary enthusiast behind this haven of flavors, Cooks Delight. Join me on a gastronomic journey where each dish carries a story, and every recipe is a crafted symphony of taste.
+              Bonjour and welcome to the heart of my kitchen! Im Isabella Russo, the culinary enthusiast behind this haven of flavors, Cooks Delight. Join me on a gastronomic journey where each dish carries a story, and every recipe is a crafted symphony of taste.
             </p>
           </div>
 
@@ -55,7 +55,7 @@ export default function About() {
             <div className="bg-gray-100 rounded-lg p-6 shadow-md">
               <Image src="/recipe3.png" alt='recipe3' width={800} height={500} className="rounded-lg shadow-lg w-full h-48 object-cover" />
               <h3 className="text-xl sm:text-2xl mt-4 font-bold text-gray-800">Quinoa Veggie Stir-Fry</h3>
-              <p className="text-gray-600 mt-2">Quick, wholesome, and bursting with flavors, it's perfect for a healthy weeknight dinner.</p>
+              <p className="text-gray-600 mt-2">Quick, wholesome, and bursting with flavors, its perfect for a healthy weeknight dinner.</p>
               <Link href="/recipe-3">
                 <button className="w-full sm:w-32 h-10 rounded-full mt-4 bg-white border border-black hover:bg-orange-400 transition-all">
                   VIEW RECIPE
